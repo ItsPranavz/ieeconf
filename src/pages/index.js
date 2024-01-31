@@ -75,7 +75,7 @@ export default function Home() {
                 >
                     <div className={styles.hero_box}>
                         <p className={styles.sub_heading}>
-                            5th IEEE India Council International Subsections
+                            5<sup>th</sup> IEEE India Council International Subsections
                             Conference
                         </p>
                         <h1>
